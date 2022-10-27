@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "216132220858",
+    "project_id": "sanbercode-25ee3",
+    "storage_bucket": "sanbercode-25ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216132220858:android:c2c79c01ea2f0d5028cf83",
+        "android_client_info": {
+          "package_name": "com.example.sanberappflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216132220858-n0p5qbi92fmj6lbbvknh91mcjfitdmls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_wm1tasvzKd3BO55DFQpzYVvdH8Yucg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216132220858-n0p5qbi92fmj6lbbvknh91mcjfitdmls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216132220858-v64aspui2avc7v5obkehuqfqhe9cj8v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sanberappflutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216132220858:android:133562ba8d5fb9c028cf83",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216132220858-n0p5qbi92fmj6lbbvknh91mcjfitdmls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_wm1tasvzKd3BO55DFQpzYVvdH8Yucg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216132220858-n0p5qbi92fmj6lbbvknh91mcjfitdmls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216132220858-v64aspui2avc7v5obkehuqfqhe9cj8v0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sanberappflutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
